@@ -13,7 +13,7 @@
       "url": "heroku/python"
     }
   ],
-  "repository": "https://github.com/CodeSearchDev/AaruChatBot",
+  "repository": "https://github.com/GANJAKHOR001/AI_2",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
