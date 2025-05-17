@@ -29,7 +29,7 @@ If You show any error like failed to app Creation Then fork and deploy
 The fastest way to deploy using Docker Compose is with Koyeb.
 Click the button below to start deployment instantly.
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=https://github.com/CodeSearchDev/AaruChatBot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=https://github.com/GANJAKHOR001/AI_2)
 
 
 ## Configuration
