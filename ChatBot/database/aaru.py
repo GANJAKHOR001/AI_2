@@ -97,6 +97,5 @@ class ChatGptEs:
 
 
 chatbot_api = ChatGptEs()
-```
 
 Let me know if you want to customize the username dynamically or pull it from an environment variable.
