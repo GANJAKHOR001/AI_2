@@ -19,7 +19,7 @@ class ChatGptEs:
     )
 
     def __init__(self):
-        self.url = "https://chatgpt.es"
+        self.url = "https://Gemini-1.5-flash"
         self.api_endpoint = "https://Gemini-1.5-flash/wp-admin/admin-ajax.php"
         self.scraper = cloudscraper.create_scraper()
         self.last_message = None  # Pichhle message ka context store karne ke liye
