@@ -20,7 +20,7 @@ class ChatGptEs:
 
     def __init__(self):
         self.url = "https://chatgpt.es"
-        self.api_endpoint = ""
+        self.api_endpoint = "https://chatgpt.es/wp-admin/admin-ajax.php"
         self.scraper = cloudscraper.create_scraper()
         self.last_message = None  # Pichhle message ka context store karne ke liye
 
