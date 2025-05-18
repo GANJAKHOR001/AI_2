@@ -1,6 +1,3 @@
-Here’s your updated code with all instances of `@WTF_WhyMeeh` replaced with `@II_SB_SIMPLE_II`:
-
-```python
 import os
 import re
 import random
