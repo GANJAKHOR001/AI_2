@@ -6,7 +6,7 @@ dnspython==2.6.1
 tgcrypto==1.2.5
 asyncio  # Note: This is part of the Python standard library, no need to install separately
 python-dotenv==1.0.1
-aiohttp==3.9.5
+aiohttp==3.12.6
 cloudscraper==1.2.71
 flask==3.0.3
 git+https://github.com/KurimuzonAkuma/pyrogram
